@@ -1,3 +1,3 @@
 # PingFangSC
-PingFangSC字体包文件、苹果平方字体文件，包含ttf和woff2格式
-web应用建议使用woff2格式的字体文件
+PingFangSC字体包文件、苹果平方字体文件，包含`ttf`和`woff2`格式
+web应用建议使用`woff2`格式的字体文件
